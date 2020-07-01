@@ -8,8 +8,8 @@ namespace BuisnessLogic.Library.Repos
     {
 
 
-        ICustomerRep Customers { get; }
-        int Complete(); 
+        //ICustomerRep Customers { get; }
+        //int Complete(); 
 
 
     }

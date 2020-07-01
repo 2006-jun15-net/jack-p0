@@ -1,0 +1,9 @@
+C:\Revature_Code\jack-p0\ProjectZero\StoreApp\BuisnessLogic.Library\obj\Debug\netstandard2.0\BuisnessLogic.Library.csprojAssemblyReference.cache
+C:\Revature_Code\jack-p0\ProjectZero\StoreApp\BuisnessLogic.Library\obj\Debug\netstandard2.0\BuisnessLogic.Library.AssemblyInfoInputs.cache
+C:\Revature_Code\jack-p0\ProjectZero\StoreApp\BuisnessLogic.Library\obj\Debug\netstandard2.0\BuisnessLogic.Library.AssemblyInfo.cs
+C:\Revature_Code\jack-p0\ProjectZero\StoreApp\BuisnessLogic.Library\bin\Debug\netstandard2.0\BuisnessLogic.Library.deps.json
+C:\Revature_Code\jack-p0\ProjectZero\StoreApp\BuisnessLogic.Library\bin\Debug\netstandard2.0\BuisnessLogic.Library.dll
+C:\Revature_Code\jack-p0\ProjectZero\StoreApp\BuisnessLogic.Library\bin\Debug\netstandard2.0\BuisnessLogic.Library.pdb
+C:\Revature_Code\jack-p0\ProjectZero\StoreApp\BuisnessLogic.Library\obj\Debug\netstandard2.0\BuisnessLogic.Library.dll
+C:\Revature_Code\jack-p0\ProjectZero\StoreApp\BuisnessLogic.Library\obj\Debug\netstandard2.0\BuisnessLogic.Library.pdb
+C:\Revature_Code\jack-p0\ProjectZero\StoreApp\BuisnessLogic.Library\obj\Debug\netstandard2.0\BuisnessLogic.Library.csproj.CoreCompileInputs.cache

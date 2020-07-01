@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AutoMapper;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -39,10 +40,10 @@ namespace BusinessLogic.Library.Models
 
         public int CustomerId { get; set; }
 
+         //transferData() {
 
-
-
-
+         //   var config = new MapperConfiguration(mc => mc.CreateMap<Customer, >)
+         //       }
 
     }
 }

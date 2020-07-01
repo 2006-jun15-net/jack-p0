@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5QYIzPeGobfkpiHDSDu3O9Fej0g5zWhxVL5Wz9cRrwLToVt/0Y4NaBnT9vnWCCRrZWTqGqEOVxCW5Gezhvl3Uw==",
+  "dgSpecHash": "wU4d/7qHNGBD1OyION2TMnawktX+RH4IiZTiaxGqL9rlxohCMdB7WiH+eAwwvtFW2M/57XYBSCUQpigDFcY2UQ==",
   "success": true,
-  "projectFilePath": "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\DataAccess.Library\\DataAccess.Library.csproj",
+  "projectFilePath": "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\DataAccess.Library\\DataAccess.Library.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jackp\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\jackp\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\jackp\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\jackp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

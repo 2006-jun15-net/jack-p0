@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\StoreApp\\StoreApp.csproj": {}
+    "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\StoreApp\\StoreApp.csproj": {}
   },
   "projects": {
-    "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\BuisnessLogic.Library\\BuisnessLogic.Library.csproj": {
+    "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\BuisnessLogic.Library\\BuisnessLogic.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\BuisnessLogic.Library\\BuisnessLogic.Library.csproj",
+        "projectUniqueName": "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\BuisnessLogic.Library\\BuisnessLogic.Library.csproj",
         "projectName": "BuisnessLogic.Library",
-        "projectPath": "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\BuisnessLogic.Library\\BuisnessLogic.Library.csproj",
+        "projectPath": "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\BuisnessLogic.Library\\BuisnessLogic.Library.csproj",
         "packagesPath": "C:\\Users\\jackp\\.nuget\\packages\\",
-        "outputPath": "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\BuisnessLogic.Library\\obj\\",
+        "outputPath": "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\BuisnessLogic.Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jackp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,6 +38,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -59,14 +63,14 @@
         }
       }
     },
-    "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\DataAccess.Library\\DataAccess.Library.csproj": {
+    "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\DataAccess.Library\\DataAccess.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\DataAccess.Library\\DataAccess.Library.csproj",
+        "projectUniqueName": "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\DataAccess.Library\\DataAccess.Library.csproj",
         "projectName": "DataAccess.Library",
-        "projectPath": "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\DataAccess.Library\\DataAccess.Library.csproj",
+        "projectPath": "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\DataAccess.Library\\DataAccess.Library.csproj",
         "packagesPath": "C:\\Users\\jackp\\.nuget\\packages\\",
-        "outputPath": "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\DataAccess.Library\\obj\\",
+        "outputPath": "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\DataAccess.Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jackp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +86,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\BuisnessLogic.Library\\BuisnessLogic.Library.csproj": {
-                "projectPath": "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\BuisnessLogic.Library\\BuisnessLogic.Library.csproj"
+              "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\BuisnessLogic.Library\\BuisnessLogic.Library.csproj": {
+                "projectPath": "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\BuisnessLogic.Library\\BuisnessLogic.Library.csproj"
               }
             }
           }
@@ -128,14 +132,14 @@
         }
       }
     },
-    "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\StoreApp\\StoreApp.csproj": {
+    "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\StoreApp\\StoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\StoreApp\\StoreApp.csproj",
+        "projectUniqueName": "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\StoreApp\\StoreApp.csproj",
         "projectName": "StoreApp",
-        "projectPath": "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\StoreApp\\StoreApp.csproj",
+        "projectPath": "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\StoreApp\\StoreApp.csproj",
         "packagesPath": "C:\\Users\\jackp\\.nuget\\packages\\",
-        "outputPath": "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\StoreApp\\obj\\",
+        "outputPath": "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\StoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jackp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -151,11 +155,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\BuisnessLogic.Library\\BuisnessLogic.Library.csproj": {
-                "projectPath": "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\BuisnessLogic.Library\\BuisnessLogic.Library.csproj"
+              "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\BuisnessLogic.Library\\BuisnessLogic.Library.csproj": {
+                "projectPath": "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\BuisnessLogic.Library\\BuisnessLogic.Library.csproj"
               },
-              "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\DataAccess.Library\\DataAccess.Library.csproj": {
-                "projectPath": "C:\\Revature_Code\\jack-code\\ProjectZero\\StoreApp\\DataAccess.Library\\DataAccess.Library.csproj"
+              "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\DataAccess.Library\\DataAccess.Library.csproj": {
+                "projectPath": "C:\\Revature_Code\\jack-p0\\ProjectZero\\StoreApp\\DataAccess.Library\\DataAccess.Library.csproj"
               }
             }
           }

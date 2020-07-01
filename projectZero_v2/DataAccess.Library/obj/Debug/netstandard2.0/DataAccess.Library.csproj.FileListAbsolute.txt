@@ -1,0 +1,9 @@
+C:\Revature_Code\jack-p0\projectZero_v2\DataAccess.Library\bin\Debug\netstandard2.0\DataAccess.Library.deps.json
+C:\Revature_Code\jack-p0\projectZero_v2\DataAccess.Library\bin\Debug\netstandard2.0\DataAccess.Library.dll
+C:\Revature_Code\jack-p0\projectZero_v2\DataAccess.Library\obj\Debug\netstandard2.0\DataAccess.Library.csprojAssemblyReference.cache
+C:\Revature_Code\jack-p0\projectZero_v2\DataAccess.Library\obj\Debug\netstandard2.0\DataAccess.Library.AssemblyInfoInputs.cache
+C:\Revature_Code\jack-p0\projectZero_v2\DataAccess.Library\obj\Debug\netstandard2.0\DataAccess.Library.AssemblyInfo.cs
+C:\Revature_Code\jack-p0\projectZero_v2\DataAccess.Library\bin\Debug\netstandard2.0\DataAccess.Library.pdb
+C:\Revature_Code\jack-p0\projectZero_v2\DataAccess.Library\obj\Debug\netstandard2.0\DataAccess.Library.csproj.CoreCompileInputs.cache
+C:\Revature_Code\jack-p0\projectZero_v2\DataAccess.Library\obj\Debug\netstandard2.0\DataAccess.Library.dll
+C:\Revature_Code\jack-p0\projectZero_v2\DataAccess.Library\obj\Debug\netstandard2.0\DataAccess.Library.pdb
