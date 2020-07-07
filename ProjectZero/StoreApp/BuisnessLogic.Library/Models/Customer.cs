@@ -36,14 +36,9 @@ namespace BusinessLogic.Library.Models
         }
 
 
-        public string Name { get => FirstName + " " + LastName; }
-
         public int CustomerId { get; set; }
 
-         //transferData() {
-
-         //   var config = new MapperConfiguration(mc => mc.CreateMap<Customer, >)
-         //       }
+       
 
     }
 }

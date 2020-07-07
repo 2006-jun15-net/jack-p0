@@ -51,7 +51,6 @@ C:\Revature_Code\jack-code\ProjectZero\StoreApp\StoreApp\obj\Debug\netcoreapp3.1
 C:\Revature_Code\jack-p0\ProjectZero\StoreApp\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.csprojAssemblyReference.cache
 C:\Revature_Code\jack-p0\ProjectZero\StoreApp\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.AssemblyInfoInputs.cache
 C:\Revature_Code\jack-p0\ProjectZero\StoreApp\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.AssemblyInfo.cs
-C:\Revature_Code\jack-p0\ProjectZero\StoreApp\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.csproj.CoreCompileInputs.cache
 C:\Revature_Code\jack-p0\ProjectZero\StoreApp\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.dll
 C:\Revature_Code\jack-p0\ProjectZero\StoreApp\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.pdb
 C:\Revature_Code\jack-p0\ProjectZero\StoreApp\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.exe

@@ -13,7 +13,7 @@ namespace StoreApp
     class Program
     {
 
-        public static readonly String connectionString = System.IO.File.ReadAllText("C:/Revature_Code/secretConnectionString/connection.txt");
+        public static readonly String connectionString = System.IO.File.ReadAllText("secretString");
 
         public static readonly DbContextOptions<projectZeroContext> Options = new DbContextOptionsBuilder<projectZeroContext>()
 
@@ -27,9 +27,11 @@ namespace StoreApp
             while (true)
             {
                 Console.WriteLine("Welcome to Downtown Deli!");
+                Console.WriteLine("");
                 Console.WriteLine("For customer access: a to add a new customer, press d to display customer, press s to search for a Customer");
                 Console.WriteLine("For store location info: Press l for store locations, press sl to search for orders at a given location");
                 Console.WriteLine("For orders: press c to create order, press do to display a customers order history");
+                Console.WriteLine("To exit press q"); 
                 Console.WriteLine("");
                 var userInput = Console.ReadLine();
                 if (userInput == "a")
@@ -65,8 +67,7 @@ namespace StoreApp
                 }
                 else if (userInput == "s")
                 {
-                    //Console.WriteLine("Please enter the full name of the customer.");
-                    //var userinput = Console.ReadLine();
+                 
                     CustomerRepo.findCustomerbyName(); 
                     
                 }

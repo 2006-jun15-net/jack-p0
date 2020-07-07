@@ -11,19 +11,32 @@ namespace BusinessLogic.Library
 
 
         private int _itemCount;
+        private int amountPurchased; 
         public string productName { get ; set; }
-        
-        public int itemCount { get => _itemCount; set
-            {
-                if (value < 0)
-                {
-                    throw new ArgumentException($"The inventory count for this item is ${value}. Please choose another product for purchase.",
-                        nameof(value));
-                }
-                _itemCount = value;
-            }
-        }
 
+        //public int Stock { get => _itemCount; set
+        //    {
+        //        if (value < 0)
+        //        {
+        //            throw new ArgumentException($"The inventory count for this item is ${value}. Please choose another product for purchase.",
+        //                nameof(value));
+        //        }
+        //        _itemCount -= value;
+        //    }
+        //}
+        public int Stock { get=> _itemCount; set{
+                
+                if (amountPurchased < value)
+                {
+                    throw new ArgumentException($"The inventory count for this item is ${_itemCount}. Please choose another product for purchase.");
+                }
+                //if (amountPurchased > 0)
+                //{
+                //    throw new ArgumentOutOfRangeException("Please choose a valid amount of items to purchase");
+                //}
+                _itemCount -= amountPurchased;
+                
+                ; }
 
 
 

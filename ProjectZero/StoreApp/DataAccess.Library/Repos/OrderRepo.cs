@@ -36,6 +36,7 @@ namespace DataAccess.Library.Repos
                 CustomerName = userFullName,
                 LocationName = userlocation,
                 ProductName = orderChoice,
+               
             };
 
             var context = new projectZeroContext(Options);
